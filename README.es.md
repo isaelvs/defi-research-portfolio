@@ -2,6 +2,8 @@
 
 [English](README.md) · **Español**
 
+*Por Isael*
+
 Diseño estrategias de inversión y trading sobre BTC y DeFi, las valido con backtests y las pongo a prueba en paper trading automatizado antes de arriesgar capital real. Este repositorio documenta ese trabajo en forma de casos, incluidas las ideas que no pasaron la validación y por qué.
 
 ## Casos

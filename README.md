@@ -2,6 +2,8 @@
 
 **English** · [Español](README.es.md)
 
+*By Isael*
+
 I design investment and trading strategies for BTC and DeFi, validate them with backtests, and run them in automated paper trading before any real capital is involved. This repository documents that work as case studies, including the ideas that did not pass validation and why.
 
 ## Case studies

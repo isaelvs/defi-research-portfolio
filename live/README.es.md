@@ -8,13 +8,13 @@
 
 | Sistema | En marcha desde | Resultado | Caída máxima | Operaciones | Holdear en el periodo |
 |---|---|---|---|---|---|
-| Breakout long/short | 8 sep | 0,0% | −1,9% | 11 | +8,4% |
+| Breakout long/short | 8 sep | −0,1% | −1,9% | 11 | +8,3% |
 | Breakout spot, riesgo 1% | 8 sep | +2,1% | −3,7% | 5 | +8,7% |
 | Ondas FVG 20% con filtro | 8 sep | +5,5% | −3,4% | 2 | +8,5% |
-| Ondas FVG 10% con filtro | 8 sep* | +4,9% | −3,2% | 2 | +8,5% |
+| Ondas FVG 10% con filtro | 8 sep* | +4,8% | −3,2% | 2 | +8,5% |
 | Ruptura de estructura 20% | 14 sep | +4,0% | −2,2% | 2 | +9,6% |
-| Ruptura de estructura 10% | 14 sep* | +4,4% | −2,5% | 2 | +9,7% |
-| Corto ETH, colateral estable | 18 sep | −0,7% | −1,3% | 1 | ETH +8,1% |
+| Ruptura de estructura 10% | 14 sep* | +4,4% | −2,5% | 2 | +9,6% |
+| Corto ETH, colateral estable | 18 sep | −0,7% | −1,3% | 1 | ETH +8,0% |
 | Rebalanceo EMA 50/150 | 27 sep | +0,4% | −1,9% | 0 | +0,8% |
 
 *\* Las variantes del 10% se añadieron el 22 de septiembre de 2026. Su histórico anterior se reconstruyó aplicando el nuevo tamaño a las señales ya ejecutadas.*

@@ -8,13 +8,13 @@
 
 | System | Running since | Result | Max drawdown | Trades | Holding over the period |
 |---|---|---|---|---|---|
-| Breakout long/short | 8 Sep | 0.0% | −1.9% | 11 | +8.4% |
+| Breakout long/short | 8 Sep | −0.1% | −1.9% | 11 | +8.3% |
 | Spot breakout, 1% risk | 8 Sep | +2.1% | −3.7% | 5 | +8.7% |
 | FVG waves 20%, with filter | 8 Sep | +5.5% | −3.4% | 2 | +8.5% |
-| FVG waves 10%, with filter | 8 Sep* | +4.9% | −3.2% | 2 | +8.5% |
+| FVG waves 10%, with filter | 8 Sep* | +4.8% | −3.2% | 2 | +8.5% |
 | Structure break 20% | 14 Sep | +4.0% | −2.2% | 2 | +9.6% |
-| Structure break 10% | 14 Sep* | +4.4% | −2.5% | 2 | +9.7% |
-| ETH short, stable collateral | 18 Sep | −0.7% | −1.3% | 1 | ETH +8.1% |
+| Structure break 10% | 14 Sep* | +4.4% | −2.5% | 2 | +9.6% |
+| ETH short, stable collateral | 18 Sep | −0.7% | −1.3% | 1 | ETH +8.0% |
 | EMA 50/150 rebalancing | 27 Sep | +0.4% | −1.9% | 0 | +0.8% |
 
 *\* The 10% variants were added on 22 September 2026. Their earlier history was rebuilt by applying the new size to the signals already executed.*

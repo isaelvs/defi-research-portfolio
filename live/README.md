@@ -2,26 +2,26 @@
 
 **English** · [Español](README.es.md)
 
-**Updated on 6 Oct 2026.** A script regenerates this page once a day from the state of the engines. The commit history of this folder timestamps every snapshot.
+**Updated on 7 Oct 2026.** A script regenerates this page once a day from the state of the engines. The commit history of this folder timestamps every snapshot.
 
 ![Equity](equity_en.png)
 
 | System | Running since | Result | Max drawdown | Trades | Holding over the period |
 |---|---|---|---|---|---|
-| Breakout long/short | 8 Sep | 0.0% | −1.9% | 11 | +8.7% |
-| Spot breakout, 1% risk | 8 Sep | +2.2% | −3.7% | 5 | +9.0% |
-| FVG waves 20%, with filter | 8 Sep | +5.6% | −3.4% | 2 | +8.8% |
-| FVG waves 10%, with filter | 8 Sep* | +5.0% | −3.2% | 2 | +8.8% |
-| Structure break 20% | 14 Sep | +4.1% | −2.2% | 2 | +10.0% |
-| Structure break 10% | 14 Sep* | +4.6% | −2.5% | 2 | +10.0% |
-| ETH short, stable collateral | 18 Sep | −0.7% | −1.3% | 1 | ETH +7.9% |
-| EMA 50/150 rebalancing | 27 Sep | +0.5% | −1.9% | 0 | +1.1% |
+| Breakout long/short | 8 Sep | +0.1% | −1.9% | 12 | +7.1% |
+| Spot breakout, 1% risk | 8 Sep | +1.9% | −3.7% | 6 | +7.5% |
+| FVG waves 20%, with filter | 8 Sep | +4.9% | −3.4% | 2 | +7.3% |
+| FVG waves 10%, with filter | 8 Sep* | +4.3% | −3.2% | 2 | +7.3% |
+| Structure break 20% | 14 Sep | +3.6% | −2.2% | 3 | +8.4% |
+| Structure break 10% | 14 Sep* | +3.9% | −2.5% | 3 | +8.4% |
+| ETH short, stable collateral | 18 Sep | −0.3% | −1.3% | 1 | ETH +4.8% |
+| EMA 50/150 rebalancing | 27 Sep | −0.2% | −2.0% | 0 | −0.3% |
 
 *\* The 10% variants were added on 22 September 2026. Their earlier history was rebuilt by applying the new size to the signals already executed.*
 
 ## How to read it
 
-- **0 of 8 systems are ahead of holding** their asset since they started. The oldest has been running for 27 days: too short to conclude anything about profitability.
+- **1 of 8 systems are ahead of holding** their asset since they started. The oldest has been running for 28 days: too short to conclude anything about profitability.
 - **It is simulated money.** Each system starts from 10,000 fictional USD. None has real capital.
 - **Everything is published, including what goes badly.** The table comes straight from the state of the engines, with no picking of systems or periods.
 - **What this phase checks is the operation:** that the live system does the same as the backtest.
